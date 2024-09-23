@@ -1,0 +1,33 @@
+
+# Ignore Windows system folders and unnecessary user data
+AppData/
+AppData/Local/
+AppData/Local/Microsoft/
+AppData/Roaming/
+Documents/Mi música/
+Documents/Mis imágenes/
+Documents/Mis vídeos/
+Configuración local/
+Cookies/
+Datos de programa/
+Entorno de red/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+VirtualBox/
+
+# Ignore temporary and cache files
+*.tmp
+*.log
+*.bak
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
