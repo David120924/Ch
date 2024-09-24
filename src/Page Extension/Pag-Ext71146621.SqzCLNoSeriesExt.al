@@ -10,6 +10,7 @@ layout
                 ApplicationArea = Suite;
                 Editable = true;
                 Visible = ShowField;
+                
             }
             field("SqzCLDocTypeNumId"; Rec."SqzCLDocTypeNumId")
             {
