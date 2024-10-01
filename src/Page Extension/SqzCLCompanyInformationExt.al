@@ -15,6 +15,7 @@ pageextension 71146617 SqzCLCompanyInformationExt extends "Company Information"
                     ToolTip = 'Specifies how you want to use the Company when you are working with tax and Invoices';
                     NotBlank = true;
                     ShowMandatory = true;
+                    
                     ShowCaption = true;
                 }
                 group("Comany Information by Localization")

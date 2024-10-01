@@ -12,6 +12,7 @@ pageextension 71146619 SqzVATBusinessPostingGroupExt extends "VAT Business Posti
                 Caption = 'Is Fee';
                 ShowCaption = true;
                 Visible = ShowField;
+                
             }
         }
 

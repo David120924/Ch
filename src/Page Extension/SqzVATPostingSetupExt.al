@@ -18,6 +18,7 @@ pageextension 71146620 SqzVATPostingSetupExt extends "VAT Posting Setup"
                 ToolTip = 'Tax Account Purchase.';
                 Caption = 'Tax Account Purchase';
                 ShowCaption = true;
+                
                 Visible = ShowField;
             }
             field(SqzBalanceAccount; Rec.SqzBalanceAccount)

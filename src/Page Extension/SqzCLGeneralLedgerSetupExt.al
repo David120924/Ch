@@ -16,6 +16,7 @@ pageextension 71146618 SqzCLGeneralLedgerSetupExt extends "General Ledger Setup"
                     Caption = 'Tax Area / Business';
                     NotBlank = true;
                     ShowMandatory = true;
+                    
                     ShowCaption = true;
                 }
             }
