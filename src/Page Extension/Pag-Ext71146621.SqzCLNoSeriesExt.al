@@ -6,11 +6,11 @@ layout
         {
             field("SQZICLIsElectronic"; Rec."SQZICLIsElectronic")
             {
-                Caption = 'Electronic';
+                Caption = 'Electronico';
                 ApplicationArea = Suite;
                 Editable = true;
                 Visible = ShowField;
-                
+
             }
             field("SqzCLDocTypeNumId"; Rec."SqzCLDocTypeNumId")
             {
