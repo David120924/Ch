@@ -14,7 +14,8 @@ tableextension 71146595 SqzCLNoSeriesExt extends "No. Series"
         }
         field(79002; SqzCLIdentificationType; Enum SqzCLIdentificationType)
         {
-            Caption = 'Legal document type';
+
+            Caption = 'Legal document type 2';
             DataClassification = ToBeClassified;
         }
     }

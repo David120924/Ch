@@ -12,6 +12,8 @@ tableextension 71146594 SqzVATPostingSetupExt extends "VAT Posting Setup"
             begin
                 TestNotSalesTax(FieldCaption("SqzPurchaseReverseChrgVATAcc."));
 
+
+
                 CheckGLAcc("SqzPurchaseReverseChrgVATAcc.");
             end;
         }
@@ -24,6 +26,8 @@ tableextension 71146594 SqzVATPostingSetupExt extends "VAT Posting Setup"
             trigger OnValidate()
             begin
                 TestNotSalesTax(FieldCaption("SqzTaxAccountPurchase"));
+
+
 
                 CheckGLAcc("SqzTaxAccountPurchase");
             end;
